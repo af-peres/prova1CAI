@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10/10/2018, 15:56:30
+    Author     : gutol
+*/
+
+.container{
+    
+}
+
+.form_login{
+    width: 35%;   
+    background-color: rgba(255, 255, 255, 0.8);    
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #ffc046;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;    
+    margin-top: 12.5%;
+    margin-left: 35.0%;
+}
+
+.form_login form{
+    text-align: right;
+}
+
+.form_login form input{
+    width: 75%;
+}
+
+.form_login h1{
+    text-align: center;
+}
+
+.botao{
+    text-align: right;
+}
+
+.sobre{
+    width: 75%;
+}
